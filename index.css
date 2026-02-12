@@ -1,0 +1,86 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 20px; 
+}
+p{
+    text-align: left;
+    font-style:inherit;
+    color: #292525;
+    font-size:20;
+}
+
+    
+
+hr{
+    width: 350px;px;
+    border:1px solid black;
+    margin-left:0;
+}
+
+.education {
+  margin-bottom: px;
+}
+
+.education {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+  margin-left:40px;
+}
+
+.education p {
+  margin: 5px 0;
+  font-size: 18px;
+  color: #594646;
+  margin-left: 0px;
+}
+
+.education span {
+  font-size: 15px;
+  color: #8a8282;
+}
+hr{
+    width: 725;
+    border: 1px solid rgb(43, 36, 36);
+    margin-left: 0;
+}
+h3{
+    font: size 30px;;
+
+}
+h2{
+    font-size:25px;
+    margin-left: 20;
+}
+hr{
+    width: 550;
+}
+.pic{
+    float:left;
+    margin-right:10px;
+    border-radius: 360px;
+    margin-top: 90px;
+    
+}
+.about{
+    margin-left: 40px;
+    color: aliceblue;
+    background-color: #555;
+}
+.name{
+    font-style: ;
+}
+.left{
+    width: 550px;
+
+}
+.contact{
+    margin-left: 40;
+}
+.right-column{
+    width: 65%;
+    padding:45px;
+}
